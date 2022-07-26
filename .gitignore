@@ -1,0 +1,6 @@
+__pycache__
+env/
+.env
+
+
+# SQLALCHEMY_DATABASE_URL = 'postgresql://rajesh:mrjadeja9090@localhost/fastapi'
